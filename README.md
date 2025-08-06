@@ -13,15 +13,16 @@
 
 <div align="center">
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wahidul-Hoque&theme=onedark)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadia-marzia&theme=onedark)
 
-![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wahidul-Hoque&theme=onedark)
-![Most Used](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wahidul-Hoque&theme=onedark)
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadia-marzia&theme=onedark) 
+![Most Used](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadia-marzia&theme=onedark)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wahidul-Hoque&theme=onedark)
-![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wahidul-Hoque&theme=onedark&utcOffset=6)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadia-marzia&theme=onedark) 
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadia-marzia&theme=onedark&utcOffset=6)
 
 </div>
+
 
 ---
 
@@ -31,9 +32,7 @@
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Wahidul--Hoque-black?style=flat-square&logo=github)](https://github.com/Wahidul-Hoque)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Wahidul_k_a-blue?style=flat-square)](https://codeforces.com/profile/Wahidul_k_a)
+[![GitHub](https://img.shields.io/badge/GitHub-Sadiatul--Marzia-black?style=flat-square&logo=github)](https://github.com/sadia-marzia)
 
 </div>
 
