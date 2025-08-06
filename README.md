@@ -13,9 +13,9 @@
 
 <div align="center">
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadia-marzia&theme=onedark)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadia-marzia&theme=onedark )
 
-![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadia-marzia&theme=onedark) 
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadia-marzia&theme=onedark ) 
 ![Most Used](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadia-marzia&theme=onedark)
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadia-marzia&theme=onedark) 
@@ -26,17 +26,6 @@
 
 ---
 
-
-
-## 🌐 Connect with Me
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sadiatul--Marzia-black?style=flat-square&logo=github)](https://github.com/sadia-marzia)
-
-</div>
-
----
 
 
 
